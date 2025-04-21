@@ -76,7 +76,8 @@ npm run storybook
 
 🌍 Live Preview (Storybook)
 
-👉 [Storybook Deployment (via Chromatic)](https://your-chromatic-link-here)
+👉 View the live Storybook for the Design System: [Design System Preview](https://680646558f8dc70e92c0b20e-bplymmbruy.chromatic.com/)
+
 
 
 🔗 GitHub Repo
