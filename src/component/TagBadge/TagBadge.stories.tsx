@@ -24,3 +24,9 @@ export const Success: Story = {
     variant: "success",
   },
 };
+export const Neutral : Story = {
+  args: {
+    label: "Neutral",
+    variant: "neutral",
+  },
+};
